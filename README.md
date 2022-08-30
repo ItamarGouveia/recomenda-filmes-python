@@ -2,7 +2,7 @@
 ## Curso da IA Expert Academy
 
 <div align="center">
-<img src="img1.png"/>
+<img src="https://github.com/ItamarGouveia/recomenda-filmes-python/blob/main/Mod3/img1.png"/>
 </div>
 
 Essa trilha de aprendizagem é ideal para quem gosta de construir seus próprios algoritmos do zero, entendendo todos os conceitos teóricos e matemáticos. Abaixo, você encontrará informações sobre oportunidades de trabalho, o que você terá a chance de aprender e os requisitos para realizar todos os cursos listados.
